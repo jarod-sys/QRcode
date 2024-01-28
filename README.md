@@ -1,3 +1,4 @@
+# QRcode
 ## Le code que nous avons implementé comporte essentiellement en trois grandes parties:
 
 - Un fichier Qrcode.py : Pour la parallèlisation.(production des 10000 qrcodes).
