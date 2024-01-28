@@ -1,5 +1,5 @@
 # QRcode
-## Le code que nous avons implementé comporte essentiellement en trois grandes parties:
+## Le code que nous avons implementé comporte essentiellement trois grandes parties:
 
 - Un fichier Qrcode.py : Pour la parallèlisation.(production des 10000 qrcodes).
 - Un fichier projet.py: où nous trouvons une classe 'ProjetQrcode' qui constitue le coprs du programme.
